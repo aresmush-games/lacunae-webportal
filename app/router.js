@@ -17,6 +17,8 @@ Router.map(function() {
   this.route('home', { path: ''});
 
   this.route('account');
+  this.route('achievements');
+  this.route('admins');
   this.route('app-review', { path: '/app/:id' });
   this.route('area', { path: '/area/:id'});
   this.route('area-edit', { path: '/area/:id/edit'});
