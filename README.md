@@ -1,3 +1,5 @@
+(**note**:  No longer developed/active.  Not built with AresMUSH+)
+
 AresMUSH Web Portal
 ========
 
